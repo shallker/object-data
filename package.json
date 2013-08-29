@@ -1,0 +1,30 @@
+{
+  "name": "object-data",
+  "description": "It's object, not just data.",
+  "version": "1.0.0",
+  "author": "Shallker Wang <shallker.wang@profero.com>",
+  "main": "index.js",
+  "keywords": [
+    "object-data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shallker-wang/object-data.git"  
+  },
+  "bugs": {
+    "url": "https://github.com/shallker-wang/object-data/issues"
+  },
+  "dependencies": {
+    "dever": "*",
+    "eventy": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "coffee-script": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT"
+}
