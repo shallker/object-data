@@ -2,17 +2,17 @@
   "name": "object-data",
   "description": "It's object, not just data.",
   "version": "1.0.0",
-  "author": "Shallker Wang <shallker.wang@profero.com>",
+  "author": "Shallker <imshallker@gmail.com>",
   "main": "index.js",
   "keywords": [
     "object-data"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shallker-wang/object-data.git"  
+    "url": "https://github.com/shallker/object-data.git"  
   },
   "bugs": {
-    "url": "https://github.com/shallker-wang/object-data/issues"
+    "url": "https://github.com/shallker/object-data/issues"
   },
   "dependencies": {
     "dever": "*",
