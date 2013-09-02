@@ -1,0 +1,26 @@
+{
+  "name": "object-data",
+  "repo": "shallker/object-data",
+  "description": "It's object, not just data.",
+  "version": "1.0.0",
+  "keywords": [
+    "object", "data", "object-data"
+  ],
+  "dependencies": {
+    "shallker-wang/dever": "*",
+    "shallker-wang/eventy": "*"
+  },
+  "development": {
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/object-data.js",
+    "lib/objects/object-array.js",
+    "lib/objects/object-boolean.js",
+    "lib/objects/object-date.js",
+    "lib/objects/object-number.js",
+    "lib/objects/object-string.js"
+  ]
+}
