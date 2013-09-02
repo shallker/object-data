@@ -1,5 +1,4 @@
-var pkg = require('./package'),
-    ObjectData = require('./lib/object-data'),
+var ObjectData = require('./lib/object-data'),
     ObjectDate = require('./lib/objects/object-date'),
     ObjectArray = require('./lib/objects/object-array'),
     ObjectNumber = require('./lib/objects/object-number'),
@@ -19,4 +18,4 @@ exports.ObjectString = ObjectString;
 
 exports.ObjectBoolean = ObjectBoolean;
 
-exports.version = pkg.version;
+exports.version = '1.0.0';
